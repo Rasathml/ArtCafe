@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ArtCafe.Server.props" />
+</Project>

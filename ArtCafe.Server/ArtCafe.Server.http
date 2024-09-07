@@ -1,0 +1,6 @@
+@ArtCafe.Server_HostAddress = http://localhost:5051
+
+GET {{ArtCafe.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
